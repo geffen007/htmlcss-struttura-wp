@@ -52,7 +52,14 @@ nav {
 
 aside {
     width: 20%;
+}
+
+aside .box {
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 10px;
     background-color: #39943c;
+
 }
 
 .left {
@@ -70,9 +77,7 @@ main {
 }
 
 .right {
-    background-color: #e49240;
     float: right;
-    margin-bottom: 10px;
 }
 
 .ads {
